@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+#myCanvas{
+  display: block;
+  border: 3px solid black;
+}
+
+.rabPic{
+  margin-left: 20px;
+  margin-right: 20px;
+}
